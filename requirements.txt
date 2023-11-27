@@ -1,0 +1,11 @@
+
+pandas
+numpy
+matplotlib
+plotly
+pygam
+selenium
+webdriver_manager
+bs4
+tqdm
+urllib3
